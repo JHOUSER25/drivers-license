@@ -4,9 +4,9 @@ using namespace std;
 class License
 {
 private:
-	string firstName, lastName;
-	string address;
-	string city, state, zip;
+	string Jordan,Houser;
+	string 121 Lincoln Ave;
+	string CLINTONVILLE, WI, 54929;
 	string license;
 
 public:
